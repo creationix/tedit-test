@@ -1,0 +1,3 @@
+[submodule "modules/conquest"]
+	path = modules/conquest
+	url = git@github.com:creationix/conquest.git
