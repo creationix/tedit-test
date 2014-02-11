@@ -1,5 +1,7 @@
-var other = require('./other.js');
+var other = require('other');
 
-module.exports = function (a, b) {
-  return a + b;
-};
+module.exports = app;
+
+function app(req, callback) {
+  console.log("TODO: Implement app", req);
+}
