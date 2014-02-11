@@ -1,4 +1,4 @@
-var other = require('other');
+var other = require('./other.js');
 
 module.exports = app;
 
