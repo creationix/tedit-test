@@ -1,1 +1,1 @@
-../src/{name}.js|amd .
+../src/{name}.js|amd
