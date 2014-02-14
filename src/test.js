@@ -1,1 +1,1 @@
-var Point = require("point");
+var Point = require("./test1");
