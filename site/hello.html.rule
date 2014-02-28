@@ -1,0 +1,9 @@
+{
+  program: "template",
+  template: "site/templates/main.html"
+  title: "Page name",
+  items: [
+    { name: "Apple",  price: 4 }
+    { name: "Orange", price: 3 }
+  ]
+}
