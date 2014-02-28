@@ -60,7 +60,7 @@
   function download(name, callback) {
     var script = document.createElement("script");
     script.setAttribute("charset", "utf-8");
-    script.setAttribute("src", name);
+    script.setAttribute("src", "src/" + name);
     script.setAttribute("async", true);
     scripts[name] = script;
     pending[name] = [callback];

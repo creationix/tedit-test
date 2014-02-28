@@ -1,5 +1,4 @@
 {
   program: "amd-tree"
   input: "lib/js-git"
-  base: ".."
 }
